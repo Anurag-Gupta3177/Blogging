@@ -9,7 +9,7 @@ A full-featured blogging platform where users can sign up, log in, create and re
 - **Responsive UI**: Optimized for both desktop and mobile devices.
 
 ## Tech Stack
-- **Frontend**: HTML, CSS, JavaScript (or specify any framework like React if used)
+- **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB (or specify your choice if different)
 - **Authentication**: JWT (JSON Web Tokens) for secure user sessions
