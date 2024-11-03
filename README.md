@@ -11,6 +11,6 @@ A full-featured blogging platform where users can sign up, log in, create and re
 ## Tech Stack
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB (or specify your choice if different)
+- **Database**: MongoDB 
 - **Authentication**: JWT (JSON Web Tokens) for secure user sessions
 
